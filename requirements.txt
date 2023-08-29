@@ -1,7 +1,7 @@
 # List required packages in this file, one per line.
 h5py
 numpy
-git+https://github.com/silx-kit/pyFAI.git
+git+https://github.com/silx-kit/pyFAI.git@0.21
 pygix
 scipy
 xarray
